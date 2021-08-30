@@ -68,8 +68,8 @@ body {
 }
 
 .social-icons li a i {
-  color: red;
-  padding: 10px;
+  /color: red;
+  /padding: 10px;
   font-size: 1rem;
   border-radius: 50%;
 }
